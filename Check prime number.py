@@ -17,4 +17,4 @@ for i in range(1,1001):
 print(" last prime num = ", LastPrimeNum)
 print("prime num cun = ", prime_number_cuont)
 print("\n \n")
-print("say Hello in master branch")
+print("say Hello in dev branch")
